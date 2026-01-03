@@ -1,0 +1,5 @@
+[2025-12-16T10:06:08.861Z] INFO: Opening product Nokia lumia 1520
+[2025-12-16T10:06:11.334Z] INFO: Price of Nokia lumia 1520 is 820
+[2025-12-16T10:06:12.149Z] INFO: Clicked Add to Cart
+[2025-12-16T10:06:14.596Z] INFO: Nokia lumia 1520 is present in cart
+[2025-12-16T10:06:14.617Z] INFO: Cart total after adding: 820

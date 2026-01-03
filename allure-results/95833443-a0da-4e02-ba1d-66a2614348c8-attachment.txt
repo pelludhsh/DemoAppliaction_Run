@@ -1,0 +1,11 @@
+[2025-12-18T16:08:15.436Z] INFO: Initializing LoginPage fixture
+[2025-12-18T16:08:15.438Z] INFO: Initializing HomePage fixture
+[2025-12-18T16:08:15.439Z] INFO: Initializing ProductPage fixture
+[2025-12-18T16:08:15.440Z] INFO: Initializing CartPage fixture
+[2025-12-18T16:08:17.657Z] INFO: Application launched
+[2025-12-18T16:08:18.301Z] INFO: Opening product: Samsung galaxy s6
+[2025-12-18T16:08:23.001Z] INFO: Price of Samsung galaxy s6: 360
+[2025-12-18T16:08:23.735Z] INFO: Added to cart
+[2025-12-18T16:08:26.106Z] INFO: Samsung galaxy s6 present in cart
+[2025-12-18T16:08:26.123Z] INFO: Final Cart Total: 12860
+[2025-12-18T16:08:26.123Z] INFO: Opening product: Nokia lumia 1520

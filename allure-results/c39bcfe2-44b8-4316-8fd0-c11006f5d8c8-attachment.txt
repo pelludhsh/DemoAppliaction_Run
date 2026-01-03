@@ -1,0 +1,2 @@
+[2025-12-18T13:04:32.205Z] INFO: Initializing LoginPage fixture
+[2025-12-18T13:04:32.208Z] INFO: Initializing HomePage fixture

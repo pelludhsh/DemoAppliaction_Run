@@ -1,0 +1,13 @@
+[2026-01-03T20:30:08.538Z] INFO: Initializing LoginPage fixture
+[2026-01-03T20:30:08.540Z] INFO: Initializing HomePage fixture
+[2026-01-03T20:30:08.543Z] INFO: Initializing ProductPage fixture
+[2026-01-03T20:30:08.544Z] INFO: Initializing CartPage fixture
+[2026-01-03T20:30:10.532Z] INFO: Application launched
+[2026-01-03T20:30:11.147Z] INFO: Opening product: Nokia lumia 1520
+[2026-01-03T20:30:14.698Z] INFO: Price of Nokia lumia 1520: 820
+[2026-01-03T20:30:15.632Z] INFO: Added to cart
+[2026-01-03T20:30:18.003Z] INFO: Nokia lumia 1520 present in cart
+[2026-01-03T20:30:18.015Z] INFO: Final Cart Total: 820
+[2026-01-03T20:30:20.455Z] INFO: Opening product: Sony vaio i5
+[2026-01-03T20:30:23.165Z] INFO: Price of Sony vaio i5: 790
+[2026-01-03T20:30:24.077Z] INFO: Added to cart

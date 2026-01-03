@@ -1,0 +1,5 @@
+[2025-12-23T13:13:09.461Z] INFO: Initializing LoginPage fixture
+[2025-12-23T13:13:09.465Z] INFO: Initializing HomePage fixture
+[2025-12-23T13:13:09.466Z] INFO: Initializing ProductPage fixture
+[2025-12-23T13:13:09.467Z] INFO: Initializing CartPage fixture
+[2025-12-23T13:13:12.534Z] INFO: Application launched

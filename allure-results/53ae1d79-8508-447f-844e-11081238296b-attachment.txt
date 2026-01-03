@@ -1,0 +1,2 @@
+[2025-12-16T09:03:22.648Z] INFO: Logging in with invalidUser
+[2025-12-16T09:03:23.840Z] ERROR: Login failed: Login failed: Wrong password.

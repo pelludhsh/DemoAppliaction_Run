@@ -1,0 +1,5 @@
+[2025-12-16T10:06:16.840Z] INFO: Opening product Sony vaio i5
+[2025-12-16T10:06:20.166Z] INFO: Price of Sony vaio i5 is 790
+[2025-12-16T10:06:21.021Z] INFO: Clicked Add to Cart
+[2025-12-16T10:06:23.190Z] INFO: Sony vaio i5 is present in cart
+[2025-12-16T10:06:23.209Z] INFO: Cart total after adding: 790

@@ -1,0 +1,5 @@
+[2025-12-16T10:06:00.744Z] INFO: Opening product Samsung galaxy s6
+[2025-12-16T10:06:03.263Z] INFO: Price of Samsung galaxy s6 is 360
+[2025-12-16T10:06:04.007Z] INFO: Clicked Add to Cart
+[2025-12-16T10:06:06.420Z] INFO: Samsung galaxy s6 is present in cart
+[2025-12-16T10:06:06.466Z] INFO: Cart total after adding: 360

@@ -1,0 +1,192 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - text:             X 
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "PRODUCT STORE" [ref=e4] [cursor=pointer]:
+        - /url: index.html
+        - img [ref=e5]
+        - text: PRODUCT STORE
+      - list [ref=e7]:
+        - listitem [ref=e8]:
+          - link "Home (current)" [ref=e9] [cursor=pointer]:
+            - /url: index.html
+            - text: Home
+            - generic [ref=e10]: (current)
+        - listitem [ref=e11]:
+          - link "Contact" [ref=e12] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e13]:
+          - link "About us" [ref=e14] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e15]:
+          - link "Cart" [ref=e16] [cursor=pointer]:
+            - /url: "#"
+        - listitem
+        - listitem [ref=e17]:
+          - link "Log out" [ref=e18] [cursor=pointer]:
+            - /url: "#"
+        - listitem [ref=e19]:
+          - link "Welcome pavanol" [ref=e20] [cursor=pointer]:
+            - /url: "#"
+        - listitem
+  - generic [ref=e22]:
+    - generic [ref=e23]:
+      - heading "Products" [level=2] [ref=e24]
+      - table [ref=e26]:
+        - rowgroup [ref=e27]:
+          - row "Pic Title Price x" [ref=e28]:
+            - cell "Pic" [ref=e29]
+            - cell "Title" [ref=e30]
+            - cell "Price" [ref=e31]
+            - cell "x" [ref=e32]
+        - rowgroup [ref=e33]:
+          - row "Samsung galaxy s6 360 Delete" [ref=e34]:
+            - cell [ref=e35]:
+              - img [ref=e36]
+            - cell "Samsung galaxy s6" [ref=e37]
+            - cell "360" [ref=e38]
+            - cell "Delete" [ref=e39]:
+              - link "Delete" [ref=e40] [cursor=pointer]:
+                - /url: "#"
+          - row "Nokia lumia 1520 820 Delete" [ref=e41]:
+            - cell [ref=e42]:
+              - img [ref=e43]
+            - cell "Nokia lumia 1520" [ref=e44]
+            - cell "820" [ref=e45]
+            - cell "Delete" [ref=e46]:
+              - link "Delete" [ref=e47] [cursor=pointer]:
+                - /url: "#"
+          - row "Nokia lumia 1520 820 Delete" [ref=e48]:
+            - cell [ref=e49]:
+              - img [ref=e50]
+            - cell "Nokia lumia 1520" [ref=e51]
+            - cell "820" [ref=e52]
+            - cell "Delete" [ref=e53]:
+              - link "Delete" [ref=e54] [cursor=pointer]:
+                - /url: "#"
+          - row "Samsung galaxy s6 360 Delete" [ref=e55]:
+            - cell [ref=e56]:
+              - img [ref=e57]
+            - cell "Samsung galaxy s6" [ref=e58]
+            - cell "360" [ref=e59]
+            - cell "Delete" [ref=e60]:
+              - link "Delete" [ref=e61] [cursor=pointer]:
+                - /url: "#"
+          - row "Nokia lumia 1520 820 Delete" [ref=e62]:
+            - cell [ref=e63]:
+              - img [ref=e64]
+            - cell "Nokia lumia 1520" [ref=e65]
+            - cell "820" [ref=e66]
+            - cell "Delete" [ref=e67]:
+              - link "Delete" [ref=e68] [cursor=pointer]:
+                - /url: "#"
+          - row "Nokia lumia 1520 820 Delete" [ref=e69]:
+            - cell [ref=e70]:
+              - img [ref=e71]
+            - cell "Nokia lumia 1520" [ref=e72]
+            - cell "820" [ref=e73]
+            - cell "Delete" [ref=e74]:
+              - link "Delete" [ref=e75] [cursor=pointer]:
+                - /url: "#"
+          - row "Samsung galaxy s6 360 Delete" [ref=e76]:
+            - cell [ref=e77]:
+              - img [ref=e78]
+            - cell "Samsung galaxy s6" [ref=e79]
+            - cell "360" [ref=e80]
+            - cell "Delete" [ref=e81]:
+              - link "Delete" [ref=e82] [cursor=pointer]:
+                - /url: "#"
+          - row "Dell i7 8gb 700 Delete" [ref=e83]:
+            - cell [ref=e84]:
+              - img [ref=e85]
+            - cell "Dell i7 8gb" [ref=e86]
+            - cell "700" [ref=e87]
+            - cell "Delete" [ref=e88]:
+              - link "Delete" [ref=e89] [cursor=pointer]:
+                - /url: "#"
+          - row "Nokia lumia 1520 820 Delete" [ref=e90]:
+            - cell [ref=e91]:
+              - img [ref=e92]
+            - cell "Nokia lumia 1520" [ref=e93]
+            - cell "820" [ref=e94]
+            - cell "Delete" [ref=e95]:
+              - link "Delete" [ref=e96] [cursor=pointer]:
+                - /url: "#"
+          - row "Samsung galaxy s6 360 Delete" [ref=e97]:
+            - cell [ref=e98]:
+              - img [ref=e99]
+            - cell "Samsung galaxy s6" [ref=e100]
+            - cell "360" [ref=e101]
+            - cell "Delete" [ref=e102]:
+              - link "Delete" [ref=e103] [cursor=pointer]:
+                - /url: "#"
+          - row "Apple monitor 24 400 Delete" [ref=e104]:
+            - cell [ref=e105]:
+              - img [ref=e106]
+            - cell "Apple monitor 24" [ref=e107]
+            - cell "400" [ref=e108]
+            - cell "Delete" [ref=e109]:
+              - link "Delete" [ref=e110] [cursor=pointer]:
+                - /url: "#"
+          - row "Samsung galaxy s6 360 Delete" [ref=e111]:
+            - cell [ref=e112]:
+              - img [ref=e113]
+            - cell "Samsung galaxy s6" [ref=e114]
+            - cell "360" [ref=e115]
+            - cell "Delete" [ref=e116]:
+              - link "Delete" [ref=e117] [cursor=pointer]:
+                - /url: "#"
+          - row "Nokia lumia 1520 820 Delete" [ref=e118]:
+            - cell [ref=e119]:
+              - img [ref=e120]
+            - cell "Nokia lumia 1520" [ref=e121]
+            - cell "820" [ref=e122]
+            - cell "Delete" [ref=e123]:
+              - link "Delete" [ref=e124] [cursor=pointer]:
+                - /url: "#"
+          - row "Samsung galaxy s6 360 Delete" [ref=e125]:
+            - cell [ref=e126]:
+              - img [ref=e127]
+            - cell "Samsung galaxy s6" [ref=e128]
+            - cell "360" [ref=e129]
+            - cell "Delete" [ref=e130]:
+              - link "Delete" [ref=e131] [cursor=pointer]:
+                - /url: "#"
+          - row "Nokia lumia 1520 820 Delete" [ref=e132]:
+            - cell [ref=e133]:
+              - img [ref=e134]
+            - cell "Nokia lumia 1520" [ref=e135]
+            - cell "820" [ref=e136]
+            - cell "Delete" [ref=e137]:
+              - link "Delete" [ref=e138] [cursor=pointer]:
+                - /url: "#"
+          - row "Nexus 6 650 Delete" [ref=e139]:
+            - cell [ref=e140]:
+              - img [ref=e141]
+            - cell "Nexus 6" [ref=e142]
+            - cell "650" [ref=e143]
+            - cell "Delete" [ref=e144]:
+              - link "Delete" [ref=e145] [cursor=pointer]:
+                - /url: "#"
+    - generic [ref=e146]:
+      - heading "Total" [level=2] [ref=e147]
+      - heading "9650" [level=3] [ref=e150]
+      - button "Place Order" [ref=e151]
+  - generic [ref=e153]:
+    - generic [ref=e156]:
+      - heading "About Us" [level=4] [ref=e157]
+      - paragraph [ref=e158]: We believe performance needs to be validated at every stage of the software development cycle and our open source compatible, massively scalable platform makes that a reality.
+    - generic [ref=e161]:
+      - heading "Get in Touch" [level=4] [ref=e162]
+      - paragraph [ref=e163]: "Address: 2390 El Camino Real"
+      - paragraph [ref=e164]: "Phone: +440 123456"
+      - paragraph [ref=e165]: "Email: demo@blazemeter.com"
+    - heading "PRODUCT STORE" [level=4] [ref=e169]:
+      - img [ref=e170]
+      - text: PRODUCT STORE
+  - contentinfo [ref=e171]:
+    - paragraph [ref=e172]: Copyright © Product Store
+```

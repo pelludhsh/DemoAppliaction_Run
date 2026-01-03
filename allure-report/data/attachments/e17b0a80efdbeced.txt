@@ -1,0 +1,32 @@
+==Post API==
+{
+  bookingid: 617,
+  booking: {
+    firstname: 'Chaya',
+    lastname: 'Singh',
+    totalprice: 1000,
+    depositpaid: true,
+    bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+    additionalneeds: 'super bowls'
+  }
+}
+==GET API==
+{
+  firstname: 'Chaya',
+  lastname: 'Singh',
+  totalprice: 1000,
+  depositpaid: true,
+  bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+  additionalneeds: 'super bowls'
+}
+{ token: '641c0a5ac0b7997' }
+==PUT API==
+{
+  firstname: 'testers talk Harnold',
+  lastname: 'testers talk Bakappa',
+  totalprice: 1000,
+  depositpaid: true,
+  bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+  additionalneeds: 'super bowls'
+}
+==Delete API==

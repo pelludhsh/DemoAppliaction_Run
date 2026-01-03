@@ -1,0 +1,17 @@
+[2025-12-18T16:58:57.459Z] INFO: Initializing LoginPage fixture
+[2025-12-18T16:58:57.462Z] INFO: Initializing HomePage fixture
+[2025-12-18T16:58:57.463Z] INFO: Initializing ProductPage fixture
+[2025-12-18T16:58:57.464Z] INFO: Initializing CartPage fixture
+[2025-12-18T16:59:01.187Z] INFO: Application launched
+[2025-12-18T16:59:01.935Z] INFO: Opening product: Samsung galaxy s6
+[2025-12-18T16:59:05.249Z] INFO: Price of Samsung galaxy s6: 360
+[2025-12-18T16:59:06.293Z] INFO: Added to cart
+[2025-12-18T16:59:06.872Z] INFO: Samsung galaxy s6 present in cart
+[2025-12-18T16:59:06.908Z] INFO: Final Cart Total: 
+[2025-12-18T16:59:12.399Z] INFO: Opening product: Nokia lumia 1520
+[2025-12-18T16:59:16.713Z] INFO: Price of Nokia lumia 1520: 820
+[2025-12-18T16:59:17.564Z] INFO: Added to cart
+[2025-12-18T16:59:18.127Z] INFO: Nokia lumia 1520 present in cart
+[2025-12-18T16:59:18.159Z] INFO: Final Cart Total: 
+[2025-12-18T16:59:23.713Z] INFO: Opening product: Sony vaio i5
+[2025-12-18T16:59:28.080Z] INFO: Price of Sony vaio i5: 790

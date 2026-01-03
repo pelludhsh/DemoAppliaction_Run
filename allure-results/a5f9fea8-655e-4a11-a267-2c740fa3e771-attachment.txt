@@ -1,0 +1,6 @@
+[2025-12-18T16:21:51.846Z] INFO: Initializing LoginPage fixture
+[2025-12-18T16:21:51.847Z] INFO: Initializing HomePage fixture
+[2025-12-18T16:21:51.850Z] INFO: Initializing ProductPage fixture
+[2025-12-18T16:21:51.851Z] INFO: Initializing CartPage fixture
+[2025-12-18T16:21:54.280Z] INFO: Application launched
+[2025-12-18T16:21:54.898Z] INFO: Opening product: Samsung galaxy s6

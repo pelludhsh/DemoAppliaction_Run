@@ -1,0 +1,10 @@
+[2025-12-23T13:10:57.947Z] INFO: Initializing LoginPage fixture
+[2025-12-23T13:10:57.949Z] INFO: Initializing HomePage fixture
+[2025-12-23T13:10:57.950Z] INFO: Initializing ProductPage fixture
+[2025-12-23T13:10:57.950Z] INFO: Initializing CartPage fixture
+[2025-12-23T13:10:59.557Z] INFO: Application launched
+[2025-12-23T13:11:00.214Z] INFO: Opening product: Nokia lumia 1520
+[2025-12-23T13:11:04.284Z] INFO: Price of Nokia lumia 1520: 820
+[2025-12-23T13:11:04.987Z] INFO: Added to cart
+[2025-12-23T13:11:07.303Z] INFO: Nokia lumia 1520 present in cart
+[2025-12-23T13:11:07.315Z] INFO: Final Cart Total: 4340

@@ -1,0 +1,9 @@
+[2025-12-18T17:19:03.120Z] INFO: Initializing LoginPage fixture
+[2025-12-18T17:19:03.123Z] INFO: Initializing HomePage fixture
+[2025-12-18T17:19:03.125Z] INFO: Initializing ProductPage fixture
+[2025-12-18T17:19:03.126Z] INFO: Initializing CartPage fixture
+[2025-12-18T17:19:05.691Z] INFO: Application launched
+[2025-12-18T17:19:06.377Z] INFO: Opening product: Samsung galaxy s6
+[2025-12-18T17:19:10.087Z] INFO: Price of Samsung galaxy s6: 360
+[2025-12-18T17:19:10.793Z] INFO: Added to cart
+[2025-12-18T17:19:13.250Z] INFO: Samsung galaxy s6 present in cart
