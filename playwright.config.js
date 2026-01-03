@@ -38,7 +38,7 @@ export default defineConfig({
   //},
 
 use: {
-    headless: true,                  // run in headed mode by default
+    headless: false,                  // run in headed mode by default
     screenshot:"on",
     video:"on",
     trace:"on",
